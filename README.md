@@ -1,6 +1,6 @@
 # sample_size_impact
 
-**sample_size_impact** - The Impact of Large Sample Sizes
+**sample_size_impact** - explores the impact of large sample sizes using world coffee production data
 
 When we increase our sample size, even the smallest of differences may seem significant. To illustrate this point, work through this notebook
 
